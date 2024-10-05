@@ -1,0 +1,62 @@
+@import "./Normalize.css";
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+}
+
+/* 
+header {
+    background-color: #003366;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+section {
+    padding: 20px;
+}
+
+.contact {
+    background-color: #e6e6e6;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+.contact-info {
+    margin-top: 10px;
+}
+
+footer {
+    background-color: #003366;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+} */
+
+h1 {
+    padding: 0;
+    margin: 0;
+}
+
+header {
+    width: 100vw;
+    background-color: #b9b9b7;
+    color: #19232a;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+}
+
+header>p {
+    font-size: 1.1rem;
+}
+
+.logo {
+    height: 5rem;
+}

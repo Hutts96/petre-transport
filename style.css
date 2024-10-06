@@ -181,5 +181,6 @@ footer {
 @media (max-width: 800px) {
     .about-us {
         justify-content: center;
+        text-align: center;
     }
 }
